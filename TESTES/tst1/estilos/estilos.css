@@ -1,0 +1,27 @@
+@charset "UTF_8";
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    background-image:linear-gradient(rgba(4, 4, 153, 0.5), rgba(204, 6, 204, 0.61));
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button:hover{
+    padding: 20px;
+    width: 180px;
+    font-size: 20px;
+    transition-duration: .9s;
+    background-color: black;
+}
+
