@@ -18,7 +18,7 @@ public class ex4 {
             break;
         case 4: case 5: case 6:
             System.out.println("Premio de Participacao");
-            break;
+            break;  
 
         default:
         System.err.println("Nao Subiu no Podio");
