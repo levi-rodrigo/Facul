@@ -7,6 +7,7 @@ public class ex2 {
         int media=5;
         String res;
         res=(nota >= media ? "Aprovado" : "Reprovado"); 
+        
         //Tabela Verdade AND
         // Verdadeiro + Verdadeiro = Verdadeiro
         // Verdadeiro + Falso = Falso

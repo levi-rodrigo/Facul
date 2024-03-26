@@ -16,6 +16,7 @@ public class ex4 {
         case 3:
             System.out.println("Terceiro Lugar");
             break;
+            
         case 4: case 5: case 6:
             System.out.println("Premio de Participacao");
             break;  

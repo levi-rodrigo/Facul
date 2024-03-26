@@ -1,0 +1,69 @@
+A herança na programação permite que as classes compartilhem seus atributos, com isso temos os seguintes tipos de classe:
+ 
+ A Classe BASE ou a SuperClasse, é a que concede as caracteristicas a uma outra classe.
+
+ A Classe DERIVADA ou SubClasse, é a que herda as caracteristicas da classe BASE.
+
+Na POO, podemos dizer que a classe que vai conceder e permitir a herança pode se chamar, ClassePai e a que vai receber as caracteristicas de ClasseFilha
+
+Como exemplo: 
+
+ Existe uma SuperClasse(ClassePai), chamada MAMIFEROS e nela possuem algumas caracteristicas, elas são:
+
+- Presença de pelos.
+- Amamentação.
+
+ e como SubClasse desta, podemos ter 3 ClassesDerivadas(ClasseFilha), mas cada uma delas tem atributos proprios.
+
+- Cachorro
+ - Late	
+___________
+- Macacos 
+ - Sobem em arvores
+___________
+- Humanos
+ - Constroem
+___________
+
+
+Mas dificilmente usaremos esses exemplos em um possivel programa ou software.
+
+Podemos usar um exemplo de cadastro de pessoas em um site de empresa:
+
+(SuperClasse) - Pessoa
+
+Com atributo -nome- . String(tipo)
+
+Também atributo -endereço- . String(tipo)
+
+Com SubClasses de:
+
+Pessoa Fisica e Pessoa Juridica com dois tipos de cadastro
+
+Pessoa Fisica
+> CPF
+
+Pessoa Juridica
+>CNPJ
+
+e essas SubClasses tendo como herança os atributos da SuperClasse  *Pessoa*  terão como atributo fixo -nome- e -endereço- e será acresentado o CPF ou CNPJ para as classes atribuidas.
+______________________________________________________________________
+
+O objetivo de usar a herança é facilitar a programação e poder reutilizar o codigo, ou algum comportamento generalizado e também especialmente ações ou atributos.
+Com isso, podemos entender que a herença em relação a POO, ajuda a organizar o código em hierarquias de classes que refletem as relações entre os objetos do mundo real. Isso torna o código mais legível, compreensível e fácil de manter organizado e limpo.
+Temos também, outra caracteristica importante no meio da POO, o Polimorfismo, que tem como entendimento que objetos de classes diferentes respondam de maneira diferente a mensagens semelhantes. Isso é útil em situações onde um método pode ser aplicado a diferentes tipos de objetos, aumentando a flexibilidade e a capacidade de adaptação do sistema
+
+Em resumo, a herança na POO é uma ferramenta poderosa que proporciona vantagens significativas, como reutilização de código, extensibilidade, organização e manutenção facilitadas e polimorfismo Ela desempenha um papel fundamental no desenvolvimento de sistemas robustos e escaláveis, permitindo uma melhor modelagem de problemas complexos e uma implementação mais eficiente e flexível das soluções.
+
+
+As listas no meio da programação, é uma estrutura de dados que guarda uma coleção de elementos, permitindo acessar e manipular esses elementos de forma ordenada. Existem dois tipos:
+
+Listas estáticas: São listas cujo tamanho é definido em tempo de compilação e não pode ser alterado durante a execução do programa. Geralmente, são implementadas usando arrays em linguagens de programação, e um array em Java tem um tamanho fixo, que é definido quando o array é criado e não pode ser alterado depois disso.
+
+Listas dinamicas: São listas cujo tamanho pode ser alterado durante a execução do programa. Isso é possível graças à alocação dinâmica de memória, permitindo adicionar ou remover elementos conforme necessário. Em Java, para implementar uma estrutura de dados que se comporte como uma lista dinâmica, onde o tamanho pode variar dinamicamente durante a execução do programa, você geralmente usaria as classes fornecidas no pacote *java.util*, como *ArrayList ou LinkedList*.
+
+
+Na POO,  a herança permite que as ClassesFilha reutilizem o código das ClassesPai, evitando a redundância e promovendo a consistência no sistema. Ao usar herança para modelar tipos de objetos, podemos abstrair características comuns em classes base, deixando mais simples o design e a implementação das soluções computacionais.
+Partindo para a estrutura de dados, elas são essenciais para armazenar e manipular informações em um programa, a herança pode ser utilizada em conjunto com estruturas de dados para organizar e representar os dados de maneira eficiente. Por exemplo, podemos usar herança para criar diferentes tipos de listas, como listas simplesmente encadeadas, listas duplamente encadeadas ou listas circulares, cada uma com sua própria implementação, mas compartilhando características comuns de uma lista genérica como descrito no exemplo de ClassePai e ClasseFilha.
+
+
