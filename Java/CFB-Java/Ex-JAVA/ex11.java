@@ -16,7 +16,7 @@ public class ex11 {
     respostas[4]='c';
     
     for(int i=0;i<tam;i++){
-        System.out.printf("Informe a resposta %d:",i);
+        System.out.printf("Informe a resposta  %d:",i);
         respostas[i]=scan.nextLine().charAt(0);
         }
 
