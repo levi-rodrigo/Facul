@@ -7,6 +7,7 @@ public class Jogador {
     static int qtdJogadores=0;
 
 
+
     public Jogador(int num){
         this.num=num;
         this.setVidas(1);
