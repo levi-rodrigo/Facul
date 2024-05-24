@@ -1,0 +1,47 @@
+A etapa de levantamento e elicitação de requisitos é fundamental no desenvolvimento de sistemas, pois tem como objetivo captar e documentar as necessidades e expectativas dos clientes e usuários.
+O objetivo principal nessa etapa é garantir que o novo sistema atenda aos requisitos do negócio, proporcionando valor e eficiência aos seus processos.
+
+Objetivos da Etapa de Levantamento e Elicitação de Requisitos:
+Identificar e Documentar Necessidades: Capturar todas as necessidades dos stakeholders, garantindo que todas as funções desejadas sejam consideradas.
+Clarificar e Detalhar Requisitos: Especificar claramente o que o sistema deve fazer, detalhando funcionalidades, desempenho e restrições.
+Alinhar Expectativas: Assegurar que todos os stakeholders tenham uma compreensão comum e concordem com os requisitos definidos.
+Evitar Ambiguidades e Inconsistências: Produzir uma documentação clara e precisa que evite má compreensão.
+Facilitar a Comunicação: Proporcionar uma base para a comunicação contínua e eficaz entre analistas, desenvolvedores e usuários.
+
+Técnicas de Elicitação de Requisitos
+1. Entrevistas
+Descrição: As entrevistas envolvem conversas diretas entre analistas e stakeholders, onde perguntas são feitas para obter informações detalhadas sobre os requisitos do sistema.
+
+Adequação:
+
+Quando usar: As entrevistas são especialmente úteis em projetos onde os stakeholders possuem um conhecimento detalhado do processo de negócio e podem comentar claramente suas necessidades.
+Casos específicos: Projetos complexos onde a opinião de especialistas é crucial, ou quando é necessário obter informações detalhadas e específicas que não estão descritas.
+
+Vantagens:
+
+Permite uma compreensão profunda dos requisitos.
+Proporciona um ambiente para esclarecer dúvidas imediatamente.
+
+Desvantagens:
+
+Pode levar tempo.
+Requer habilidades de comunicação eficazes por parte do analista.
+
+2. Workshops e Sessões de Brainstorming
+Descrição: Workshops reúnem vários stakeholders em sessões para discutir e identificar requisitos. As sessões de brainstorming são usadas para gerar ideias e soluções de forma coletiva.
+
+Adequação:
+
+Quando usar: Adequado para projetos onde a colaboração e a participação de múltiplos stakeholders são de essencial importância. Ideal para descobrir necessidades e soluções criativas.
+Casos específicos: Projetos de inovação, desenvolvimento de produtos novos, ou quando é necessário alinhar múltiplas perspectivas de diferentes áreas da organização.
+Vantagens:
+
+Incentiva a colaboração e a geração de ideias diversificadas.
+Facilita o alinhamento e a resolução de conflitos entre diferentes stakeholders.
+Desvantagens:
+
+Requer um facilitador com vasta experiencia para manter a discussão focada e produtiva, e também pode ser difícil de coordenar e organizar, especialmente em um projeto numeroso.
+
+Considerações Finais
+
+A escolha da técnica de elicitação de requisitos depende do contexto do projeto, da natureza dos stakeholders, e da complexidade dos requisitos. Entrevistas são eficazes para obter informações detalhadas e específicas, enquanto workshops e brainstorming são ideais para fomentar a colaboração e gerar soluções inovadoras. Utilizar uma combinação de técnicas pode ser a melhor abordagem para garantir uma captura maior e precisa dos requisitos do sistema.
