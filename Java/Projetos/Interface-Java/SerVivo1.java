@@ -1,4 +1,4 @@
-public interface SerVivo {
+public interface SerVivo1 {
 
 
     public void mover();

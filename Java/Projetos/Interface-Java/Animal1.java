@@ -1,8 +1,8 @@
 
-public class Animal implements SerVivo {
+public class Animal1 implements SerVivo1 {
     public Boolean vivo;
 
-    public Animal(){
+    public Animal1(){
         this.vivo=false;
     }
 
